@@ -1,0 +1,7 @@
+**/node_modules/**
+.vscode/
+.next
+package.lock.json
+yarn-error.log
+.now
+__pycache__/
